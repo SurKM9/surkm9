@@ -1,4 +1,4 @@
-### Hi there, I'm Surya - aka [ZigZagRainbow](website) 👋
+### Hi there, I'm Surya - aka [ZigZagRainbow](https://www.zigzagrainbow.com/) 👋
 
 ## Here are some of my updates:
 
