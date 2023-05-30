@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suryakiran Maruvada - aka [ZigZagRainbow](www.zigzagrainbow.com)</h1>
+<h1 align="center">Hi 👋, I'm Suryakiran Maruvada - aka [CodeFlamingo](www.codeflamingo.eu)</h1>
 <h3 align="center">Passionate C++ and Qt developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surkm9&label=Profile%20views&color=0e75b6&style=flat" alt="surkm9" /> </p>
