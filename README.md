@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning and AI**
 
-- 📝 I regularly write articles on www.zigzagrainbow.com
+- 📝 I regularly write articles on www.codeflamingo.eu
 
 - 💬 Ask me about **C++/Qt/CMake**
 
